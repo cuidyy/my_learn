@@ -1,5 +1,5 @@
 # git结构
-![alt text](image.png)
+![alt text](iamge.png)
 
 ### 查看用户名和地址
 git config user.name  
